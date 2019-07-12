@@ -7,4 +7,4 @@ Run these commands to ensure the dev environment is setup.
 3. cd SampleNodeProject
 4. npm install
 5. npm start
-6. open a browser to 
+6. open a browser to http://localhost:3000/
